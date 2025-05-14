@@ -1,4 +1,4 @@
-# 🔒 DevelopersHub Juice Shop Part 2
+# 🔒 DevelopersHub Internship Part 2
 
 ![Security](https://img.shields.io/badge/Security-Enhanced-green)
 ![OWASP](https://img.shields.io/badge/OWASP-Compliant-blue)
